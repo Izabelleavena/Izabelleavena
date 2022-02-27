@@ -4,7 +4,7 @@
 <h3> Deixa eu me apresentar </h3>
 <ul>
   <li> ✍Estudante de engenharia de Software </li>
-  <li> 📢Em busca do primeiro estágio </li>
+  <li> 📢Em busca de evolução e novos desafios </li>
   <li> 🏡Moradora de Vila velha - ES </li>
   <li> ❤Apaixonada pela área de front-end </li>
   <li> ✍Estudando para me tornar uma pilha completa </li>
