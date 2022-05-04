@@ -6,8 +6,8 @@
   <li> ✍Estudante de engenharia de Software </li>
   <li> 📢Em busca de evolução e novos desafios </li>
   <li> 🏡Moradora de Vila velha - ES </li>
-  <li> ❤Apaixonada pela área de front-end </li>
-  <li> ✍Estudando para me tornar uma pilha completa </li>
+  <li> ❤Apaixonada pela área de front-end e ABAP </li>
+  <li> ✍Estudando para me tornar uma desenvolvedora completa </li>
 </ul>
 <div align = "center">
   <a href="https://github.com/IzabelleAvena">
